@@ -19,7 +19,7 @@ composer.json
 
 然后`composer update`即可。
 
-> 或者直接 `composer require myxtype/ethereum-client:dev-master`
+> 或者直接 `composer require hankerswoo/ethereum-client:dev-master`
 
 # 使用
 详细使用请参考`examples`文件夹
