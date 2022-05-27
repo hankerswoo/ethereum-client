@@ -12,7 +12,7 @@ composer.json
 ```
 {
     "require": {
-        "myxtype/ethereum-client": "dev-master"
+        "hankerswoo/ethereum-client": "dev-master"
     }
 }
 ```
