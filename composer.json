@@ -3,14 +3,14 @@
     "description": "ethereum rpc client, offline sign, php",
     "authors": [
         {
-            "name": "赵波",
-            "email": "792598794@qq.com"
+            "name": "hankerswoo",
+            "email": "billy-woo@hotmail.com"
         }
     ],
     "require": {
         "simplito/elliptic-php": "^1.0",
         "kornrunner/keccak": "^1.0",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "autoload": {
         "psr-4": {
