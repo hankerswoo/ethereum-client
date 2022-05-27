@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use xtype\Ethereum\Client;
-use xtype\Ethereum\Utils;
+use hankerswoo\Ethereum\Client;
+use hankerswoo\Ethereum\Utils;
 
 $client = new Client('https://kovan.infura.io/v3/a0d810fdff64493baba47278f3ebad27');
 

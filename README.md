@@ -31,7 +31,7 @@ composer.json
 初始化你可以直接给一个RPC的连接地址，或者参考`GuzzleHttp Options`给出一些自定义的选项。
 
 ```php
-use xtype\Ethereum\Client as EthereumClient;
+use hankerswoo\Ethereum\Client as EthereumClient;
 
 $client = new EthereumClient('https://kovan.infura.io/v3/a0d810fdff64493baba47278f3ebad27');
 // or

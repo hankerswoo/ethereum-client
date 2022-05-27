@@ -1,6 +1,6 @@
 <?php
 
-namespace xtype\Ethereum;
+namespace hankerswoo\Ethereum;
 
 use kornrunner\Keccak;
 
